@@ -6,7 +6,7 @@
 
 - [npm start] to run
 
-- live demo -> [demo](emrekibar93.github.io)
+- live demo -> [demo](https://emrekibar93.github.io/react-weather/build/)
 
 - screenshot
 
