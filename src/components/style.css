@@ -1,0 +1,46 @@
+.header {
+    background-color: aliceblue;
+    padding: 0.5rem;
+}
+
+select {
+    min-width: 150px;
+    height: 35px;
+    font-size: large;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+img {
+    width: 35%;
+}
+
+table {
+    text-align: center;
+    border: 0px;
+    border-style: none;
+    border-spacing: 0px;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-weight: bold;
+    font-size: large;
+    color: darkslategray;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.today {
+
+    background-color: lightslategray;
+    box-shadow: 5px 5px 3px lightblue;
+
+
+}
+.low{
+    color: lightgray;
+    margin-left: 10px;
+    font-weight: bold;
+}
